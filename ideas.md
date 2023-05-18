@@ -14,8 +14,5 @@ individuals, who are subject to the same 24 hour/day limitations, and a relative
 and mass. It seems to me that a logical argument for the limitation of central planning vs markets or democratic systems,
 is the sheer limit of the processing power of individual actors in terms of these physical constraints. In other words,
 with more 'vertical' organizations, there is a lower limit on processing power. This can be compared to the recent trends
-in computation to not focus so much on faster processors, but to distribute the processes across more processors. 
-I think that there is more to this. For example, I think that there is a physical reason that markets are drawn to 
-monopolies or centralization, and that involves these contraints, but I won't get into that too much here, 
-because it is another subject. I'm generally a proponent of further exploration of the relationship between physics and 
-economics. I did some writing on the subject here: https://ikuhle.com/TEMS.pdf 
+in computation to not focus so much on faster processors, but to distribute the processes across more processors.
+
